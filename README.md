@@ -1,4 +1,4 @@
-# Curso de angularJS feitas pelo [Rodrigo Branas] (https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) 
+# Curso de angularJS feitas pelo [Rodrigo Branas] (youtube) 
 
 ## Aula 01 - Introdução e Hello World
 ## Aula 02 - Usando Diretivas - Parte 1
@@ -26,3 +26,5 @@
 - **ngPattern** - Define uma *RegExp* para validar o campo
 
 ## Aula 05 
+
+[youtube]: <https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb>
