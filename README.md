@@ -1,4 +1,4 @@
-# Curso de angularJS feitas pelo [Rodrigo Branas] (youtube) 
+# Curso de angularJS feitas pelo [Rodrigo Branas]
 
 ## Aula 01 - Introdução e Hello World
 ## Aula 02 - Usando Diretivas - Parte 1
@@ -27,4 +27,4 @@
 
 ## Aula 05 
 
-[youtube]: <https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb>
+[Rodrigo Branas]: <https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb>
